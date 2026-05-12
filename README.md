@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Adaptive Systems Programming and Lab — UANL
+# 🤖 Adaptive Systems Programming — UANL
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-white?style=flat&logo=tensorflow&logoColor=white&labelColor=00bcd4&color=0097a7)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-white?style=flat&logo=scikitlearn&logoColor=white&labelColor=00bcd4&color=0097a7)
@@ -11,7 +11,7 @@
 
 > ⚠️ Code, comments and documentation are written in Spanish as part of my university coursework.
 
-Collection of exercises, simulations, lab practices and evidences from my Adaptive Systems Programming course at UANL, covering self-adjustment, cellular automata, fuzzy systems, neural networks, swarm intelligence and complex networks.
+Collection of exercises, simulations, lab practices and evidences from my Adaptive Systems Programming and Lab courses at UANL, covering self-adjustment, cellular automata, fuzzy systems, neural networks, swarm intelligence and complex networks — implemented in Python and Jupyter Notebook.
 
 </div>
 
@@ -28,7 +28,7 @@ Collection of exercises, simulations, lab practices and evidences from my Adapti
 | 03 | **Fuzzy Systems** | Fuzzy logic design and implementation with `skfuzzy`, including a Mario Kart race classifier and individual/team evidence PDFs |
 | 04 | **Neural Networks** | MLP on Parkinson's dataset, CNN models for MNIST digit recognition, K-means from scratch and with `sklearn`, and individual evidence PDF |
 
-### 🔹 Lab — Team Ositos
+### 🔹 Lab
 
 | # | Practice | Description |
 |---|----------|-------------|
@@ -37,7 +37,6 @@ Collection of exercises, simulations, lab practices and evidences from my Adapti
 | 03 | **Fireworks** | Particle explosion simulation with `pygame`, including original buggy template, corrected version and team analysis |
 | 04 | **K-Means** | Guided K-means exercises and programming using Iris, E. coli and Glass datasets, with step-by-step guides |
 | 05 | **Complex Networks** | Directed social network analysis with adjacency matrix, centrality and degree distribution in Python and Jupyter |
-| 06 | **Agents & Reinforcement Learning** | Q-learning theory, conceptual map, true/false analysis and maze-solving with Q-matrix in Jupyter |
 
 ---
 
